@@ -31,7 +31,7 @@
 
 ###
 
-<h2 align="left">My Tech Skills</h2>
+<h2 align="left">Technologies and Tools</h2>
 
 ###
 
