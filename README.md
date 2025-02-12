@@ -5,8 +5,9 @@
 <h2 align="center">Software Engineering Resident</h2>
 
 ###
-
+<div align = "center">
 <img src="https://raw.githubusercontent.com/Sruthij93/Sruthij93/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
