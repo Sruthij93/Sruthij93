@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on an AI Code Editor project.</p>
+<p align="left">🔭 I’m currently working on an <a href="https://github.com/Sruthij93/AI-Code-Editor"> AI Code Editor</a> project.</p>
 
 ###
 
@@ -86,10 +86,11 @@
 
 ###
 
-<div align="left">
+<div align="left" >
   <a href="https://www.linkedin.com/in/sruthi-jayachandran/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  
   <a href="https://x.com/2493Sru" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
