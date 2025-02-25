@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on an <a href="https://github.com/Sruthij93/AI-Code-Editor"> AI Code Editor</a> project.</p>
+<p align="left">🔭 I’m currently preparing for OAs by doing Leetcode questions.</p>
 
 ###
 
